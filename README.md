@@ -34,5 +34,5 @@ This profile documents:
 - Code written with maintainability in mind
 
 ## Contact
-Email: shivang14071193@gmail.com  
+Email: shivangupadhyy@gmail.com  
 GitHub: https://github.com/shivangupadhyy
