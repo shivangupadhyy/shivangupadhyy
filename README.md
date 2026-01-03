@@ -1,61 +1,38 @@
-# 👋 Hey there, I'm Shivang Upadhyay!
+# Shivang Upadhyay
 
-🎓 Incoming MCA Student (Starting Sep 2025)  
-💻 Aspiring Full Stack Developer + AI Engineer  
-📍 Based in India | Learning in public
+Full Stack Developer and AI Engineering Aspirant  
+MCA Student (2025) | India
 
----
+## Professional Focus
+I am building skills and projects with the intent to work on real client problems, internships, and production systems.
 
-### 🚀 About Me
+My focus is on reliability, clean implementation, and long-term learning rather than quick demos.
 
-I'm just getting started with my MCA journey this year — and with it, a commitment to becoming a **Software Engineer** who can build real-world AI-powered web applications, write clean code, and solve challenging problems with logic and creativity.
+## Skills in Progress
+- Full stack development (React, Node.js, Next.js)
+- Backend APIs and database integration
+- AI-powered features using OpenAI APIs
+- Docker and basic DevOps workflows
 
-I come from a self-taught background where I’ve already explored:
-- 💻 Basic Web Development (HTML, CSS, JS)
-- 🧪 Built and broken a few mini projects along the way
+## How I Work
+- Clear problem understanding
+- Step-by-step implementation
+- Documentation and handover mindset
+- Continuous improvement through feedback
 
-Now I’m leveling up... step-by-step.
+## Ideal Opportunities
+- Remote internships
+- Entry-level developer roles
+- Startup engineering teams
+- Freelance or contract-based technical work (learning-focused)
 
----
+## GitHub Usage
+This profile documents:
+- Practice projects
+- Learning experiments
+- Gradual system improvements
+- Code written with maintainability in mind
 
-### 🎯 My Current Goals (2025–2027)
-
-✅ Master Full Stack Web Development (React + Node.js + Next.js)  
-✅ Learn AI agent development using OpenAI, LangChain, and vector databases  
-✅ Practice DSA daily with Java to crack product-based interviews  
-✅ Build real projects and contribute on GitHub  
-✅ Land a strong off-campus remote internship/job by 2026–27
-
----
-
-### 📚 I’m Currently Learning
-
-- 🌐 HTML, CSS, JavaScript, and React  
-- ⚙️ Node.js, Express & MongoDB  
-- 🧮 Java + DSA (Striver & NeetCode Sheets)  
-- 🤖 Basics of LangChain, OpenAI API, vector stores  
-- 🐳 Fundamentals of Docker and DevOps tools
-
----
-
-
-### 💡 My Learning Philosophy
-
-“You don’t need to be great to start.  
-But you need to start to be great.”
-
-So here I am — starting publicly. Learning in front of the world.  
-If you’re on a similar journey, let’s connect and grow together!
-
----
-
-### 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivang-upadhyay-70277a240/)  
-- 🐦 [Twitter](https://x.com/Shiv_ang07)  
-- 📬 Email: `shivang14071193@gmail.com`  
-- 🧠 GitHub: [@shivangupadhyy](https://github.com/shivangupadhyy)
-
----
-
-🌟 Thanks for stopping by! If you're working on cool projects or just want to connect, feel free to reach out. Let's build & learn together! 🚀
+## Contact
+Email: shivang14071193@gmail.com  
+GitHub: https://github.com/shivangupadhyy
